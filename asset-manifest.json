@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Real-estate/static/css/main.4c549ebf.chunk.css",
+    "main.js": "/Real-estate/static/js/main.679f2e77.chunk.js",
+    "main.js.map": "/Real-estate/static/js/main.679f2e77.chunk.js.map",
+    "runtime-main.js": "/Real-estate/static/js/runtime-main.cb1c3099.js",
+    "runtime-main.js.map": "/Real-estate/static/js/runtime-main.cb1c3099.js.map",
+    "static/js/2.2e583be0.chunk.js": "/Real-estate/static/js/2.2e583be0.chunk.js",
+    "static/js/2.2e583be0.chunk.js.map": "/Real-estate/static/js/2.2e583be0.chunk.js.map",
+    "index.html": "/Real-estate/index.html",
+    "static/css/main.4c549ebf.chunk.css.map": "/Real-estate/static/css/main.4c549ebf.chunk.css.map",
+    "static/js/2.2e583be0.chunk.js.LICENSE.txt": "/Real-estate/static/js/2.2e583be0.chunk.js.LICENSE.txt",
+    "static/media/About.c998e0dd.jpg": "/Real-estate/static/media/About.c998e0dd.jpg",
+    "static/media/Appartment.fc5aeb4d.jpg": "/Real-estate/static/media/Appartment.fc5aeb4d.jpg",
+    "static/media/Contacts.8dcb9787.jpg": "/Real-estate/static/media/Contacts.8dcb9787.jpg",
+    "static/media/Double.45118b05.jpg": "/Real-estate/static/media/Double.45118b05.jpg",
+    "static/media/Single.da1de3ab.jpg": "/Real-estate/static/media/Single.da1de3ab.jpg",
+    "static/media/home.3126eea2.jpg": "/Real-estate/static/media/home.3126eea2.jpg",
+    "static/media/logo1.74c611b8.jpg": "/Real-estate/static/media/logo1.74c611b8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb1c3099.js",
+    "static/js/2.2e583be0.chunk.js",
+    "static/css/main.4c549ebf.chunk.css",
+    "static/js/main.679f2e77.chunk.js"
+  ]
+}
